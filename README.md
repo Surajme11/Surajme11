@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj Mehta
-- 👀 I’m a Frontend Developer and interested in cloud.
+- 👀 I’m a Web Developer and interested in cloud.
 - 🌱 I’m currently learning Java,azure and working on my portfolio.
 - 💞️ I love to make UI designs and work on frontend projects.
 - 🔌 Work as a profesional frontend developer in a vibrant tech companies.
