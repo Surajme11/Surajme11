@@ -11,4 +11,4 @@ Sparetime: 👇
 - 🎮 I love to playing video games.
 - 🌷 Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Surajme11&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="left" alt="Surajme11 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Surajme11&show_icons=true&hide_border=true" />
