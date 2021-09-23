@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Suraj Mehta
-- 👀 I’m a Web Developer and interested in UI designs.
-- 🌱 I’m currently working on my portfolio.
-- 💞️ I love to make UI designs and work on frontend projects.
-- 🔌 Work as a profesional frontend developer in a vibrant tech companies.
-- 📚 Learning new things, self driven, hard working and friendly.
+- ### 👋Hi, I’m Suraj Kr. Mehta🌞
+
+- 💡 Learning new things, self driven, hard working and friendly.
+- 🔭 I’m currently working on something amazing.😉
+- 📚 I’m currently learning everything.😊
+- 🎯 2021 Goals: Get hired in a tech company.
+- 🔥 Fun fact: I love to design.🌈 
+- ✉ How to reachg me: surajmehta119@gmail.com
 
 
 Sparetime: 👇
