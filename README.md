@@ -5,7 +5,7 @@
 - 📚 I’m currently learning everything.😊
 - 🎯 2021 Goals: Get hired in a tech company.
 - 🔥 Fun fact: I love to design.🌈 
-- ✉ How to reachg me: surajmehta119@gmail.com
+- ✉ How to reach me: surajmehta119@gmail.com
 
 
 Sparetime: 👇
