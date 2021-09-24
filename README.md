@@ -1,7 +1,7 @@
 - ### 👋Hi, I’m Suraj Kr. Mehta🌞
   ##
-  <img align="right" alt="coding" width="400" src="00-imp--04animation_1.gif"> 
-  ## Skills: Python ,C++,C,HTML,Django,
+  <img align="right" alt="coding" width="400" src=""> 
+  
   
 - 💡 Learning new things, self driven, hard working and friendly.
 - 🔭 I’m currently working on something amazing.😉
