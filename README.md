@@ -1,6 +1,6 @@
 - ### 👋Hi, I’m Suraj Kr. Mehta🌞
   ##
-  <img align="right" alt="coding" width="400" src=""> 
+  <img align="right" alt="Night.gif" width="400" src="https://github.com/Surajme11/Surajme11/blob/main/Night.gif"> 
   
   
 - 💡 Learning new things, self driven, hard working and friendly.
