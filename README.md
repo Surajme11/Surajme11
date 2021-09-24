@@ -1,5 +1,8 @@
 - ### 👋Hi, I’m Suraj Kr. Mehta🌞
-
+  ##
+  <img align="right" alt="coding" width="400" src="00-imp--04animation_1.gif"> 
+  ## Skills: Python ,C++,C,HTML,Django,
+  
 - 💡 Learning new things, self driven, hard working and friendly.
 - 🔭 I’m currently working on something amazing.😉
 - 📚 I’m currently learning everything.😊
@@ -28,6 +31,7 @@ Sparetime: 👇
 - 🎬 I love to watch movies and, 🎧 listining songs.
 - 🎮 I love to play video games.
 - 🌷 Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
+
 
 <a href="https://github.com/Surajme11">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surajme11&theme=dark&hide_langs_below=1" />
