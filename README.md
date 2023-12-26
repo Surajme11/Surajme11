@@ -6,7 +6,6 @@
 - 💡 Learning new things, self driven, hard working and friendly.
 - 🔭 I’m currently working on something amazing.😉
 - 📚 I’m currently learning everything.😊
-- 🎯 2023 Goals: Get hired in a tech company.
 - 🔥 Fun fact: I love to design.🌈 
 - ✉ How to reach me: surajmehta119@gmail.com
 
